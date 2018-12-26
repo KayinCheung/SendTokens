@@ -1,7 +1,7 @@
 # SendTokens
 Send multiple ERC20 tokens to multiple addresses in a single transaction.
 
-### Transaction sending multiple ERC20 tokens to 100 different address in a single transaction: 
+### Transaction sending multiple ERC20 tokens to 99 different address in a single transaction: 
 https://ropsten.etherscan.io/tx/0xb8b5794d09dc9a53dd24108cbb64b5cdd3bc40832b89068eadb1dcec5d339027
 
 ### Gas cost
